@@ -1,38 +1,38 @@
 import myPic from './assets/images/my-pic.jpeg';
-const logotext = "Attiq";
+const logotext = "AHSAN";
 const meta = {
-    title: "Attiq Ur Rehman",
-    description: "Attiq Ur Rehman - Web developer and accesibility Expert"
+    title: "Ahsan Mehboob",
+    description: "Ahsan Mehboob - Software Engineer and Web Developer"
 };
 
 const introdata = {
-    title: "I’m Attiq Ur Rehman",
+    title: "I’m Ahsan Mehboob",
     animated: {
-        first: "Web Developer",
-        second: "Accessibility Expert",
+        first: "Software Engineer",
+        second: "Web Developer",
     },
-    description: "I am a Software Engineer and Business Developer skilled in Shopify Liquid, React.js, Django, Flask, HTML/CSS, and Python. With a software engineering degree from the University of Gujrat, I specialize in creating user-focused solutions, accessible websites (WCAG compliance), and SEO optimization to improve user experiences for all, including individuals with disabilities.",
+    description: "Software Engineer with a strong foundation in programming languages such as Java, Flutter, and C++. Completed coursework on data structures, algorithms, and software development methodologies. Dedicated to developing software solutions that solve real‑world problems.",
     your_img_url: myPic,
 };
 
 const dataabout = {
     title: "A bit about my self",
-    aboutme: "I am a Software Engineer and Business Developer skilled in Shopify Liquid, React.js, Django, Flask, HTML/CSS, and Python. With a software engineering degree from the University of Gujrat, I specialize in creating user-focused solutions, accessible websites (WCAG compliance), and SEO optimization to improve user experiences for all, including individuals with disabilities.",
+    aboutme: "Hello, I'm Ahsan Mehboob, a passionate and results-driven Software Engineer based in Lahore, Pakistan. I specialize in building innovative software solutions using a wide range of technologies including Java, Flutter, C++, and SQL. With a strong foundation in data structures, algorithms, and software development methodologies, I am committed to creating efficient, scalable, and user-friendly applications that address real-world challenges. graduated with a B.S. in Software Engineering from the University of Gujrat, where I developed hands-on experience in both individual and team-based projects. I have a proven track record of successfully leading technical initiatives and collaborating with cross-functional teams to deliver impactful solutions Whether it’s through developing a web-based property investment platform, creating mobile applications, or designing e-commerce solutions, my goal is to leverage technology to make a meaningful impact. I am continuously learning and adapting to emerging technologies to stay at the forefront of the software development industry. When I’m not coding, you can find me exploring new trends in tech, mentoring students, or working on personal projects to enhance my skills. Feel free to connect with me on LinkedIn or browse through my projects to learn more about my work.",
 };
 const worktimeline = [{
-        jobtitle: "Associate Developer",
-        where: "EcomBack",
-        date: "August 2024- Present",
+        jobtitle: "BS Softwere Engineering",
+        where: "University of Gujrat",
+        date: "August 2019- September 2023",
     },
     {
-        jobtitle: "Python Developer",
-        where: "Knowledge Streams",
-        date: "January 2024 - April 2024",
+        jobtitle: "FSC",
+        where: "Govt. College Shakargrah",
+        date: "January 2017 - April 2019",
     },
     {
-        jobtitle: "Buisness Developer",
-        where: "Stream Consultants",
-        date: "April 2024 - August 2023",
+        jobtitle: "Matric",
+        where: "Govt. High School Shakargarh",
+        date: "April 2015 - August 2017",
     },
 ];
 
@@ -49,7 +49,7 @@ const skills = [{
         value: 85,
     },
     {
-        name: "Custom Shopify",
+        name: "JavaScript",
         value: 85,
     },
     {
@@ -69,7 +69,7 @@ const backend = [
         value: 85,
     },
     {
-        name: "Python",
+        name: "Java",
         value: 85,
     },
     {
@@ -77,7 +77,7 @@ const backend = [
         value: 85,
     },
     {
-        name: "flask",
+        name: "SQL",
         value: 80,
     },
     {
@@ -95,7 +95,7 @@ const others = [
         value: 80,
     },
     {
-        name: "Vercel",
+        name: "Netbeens",
         value: 80,
     },
     {
@@ -103,20 +103,20 @@ const others = [
         value: 90,
     },
     {
-        name: "Canva",
+        name: "MS Office",
         value: 85,
     },
     {
-        name: "Postman",
-        value: 75,
+        name: "Team Lead",
+        value: 90,
     },
     {
-        name: "Word",
+        name: "Project Management",
         value: 95,
     },
     {
-        name: "Powerpoint",
-        value: 95,
+        name: "Problem Solving",
+        value: 95,  
     },
 ];
 
@@ -125,20 +125,19 @@ const services = [{
         description: "Professional web development services tailored to create responsive, user-friendly, and visually appealing websites that drive engagement and deliver exceptional user experiences.",
     },
     {
-        title: "Shopify and Wordpress",
-        description: "Expert Shopify and WordPress development, creating visually stunning, accessible, and user-friendly websites tailored to your business needs, with a focus on WCAG compliance for inclusivity.",
+        title: "E-Commerce Solutions",
+        description: "Scalable and secure e-commerce platforms are created, including product management, payment integrations, and inventory systems, to optimize online store performance.",
     },
     {
-        title: "Accessibility Expertise",
-        description: "Specialized accessibility solutions to ensure your websites meet WCAG standards, providing inclusive, user-friendly experiences for individuals of all abilities.",
+        title: " Database Design and Optimization",
+        description: "Efficient and secure databases are designed and optimized, ensuring seamless data management, fast query performance, and reliable backup solutions.",
+    },
+     {
+        title: " Software Consulting and Code Reviews",
+        description: "Expert guidance on software architecture is provided, with thorough code reviews and actionable feedback to improve performance, scalability, and maintainability.",
     },
 ];
-const experience = [{
-        title: " Associate Developer | Ecomback (August 2024 – Present)",
-        description1: "Developed and optimized websites using Shopify Liquid and custom-built solutions.",
-        description2: "Focused on WCAG 2.1 compliance to ensure websites are accessible to disabled users by implementing various accessibility tools and standards.",
-        description3: "Optimized website performance for SEO using tools like Lighthouse and Powermapper, while collaborating with clients and developers to implement accessibility-focused enhancements for a broader, more inclusive audience.",
-    },
+const experience = [
     {
         title: "Business Developer | Stream Consultant (May 2024 – August 2024)",
         description1: "Secured projects on various platforms and handled client interactions.",
@@ -146,10 +145,11 @@ const experience = [{
         description3: "Managed client feedback and incorporated it into the development process, enhancing project outcomes and Collaborated on GitHub for smooth deployments and issue resolutions.",
     },
     {
-        title: "Python Developer | Knowledge Streams (Jan 2024 – April 2024)",
-        description1: "Developed full-stack web applications using Python Django in Visual Studio Code.",
-        description2: "Collaborated in a Git/GitHub environment for version control and teamwork.",
-        description3: "Gained experience working in fast-paced development cycles, problem-solving, and learning best practices from experienced mentors.",
+        title: "LAB INSTRUCTOR | University of Gujrat (September 2022 – August 2023)",
+        description1: "Instructed database fundamentals, guiding students in SQL query development and optimization.",
+        description2: "Taught programming fundamentals, leading coding exercises, and conducting code reviews.",
+        description3: "Delivered lab sessions on Object‑Oriented Programming (OOP) principles, emphasizing practical implementation.",
+        description3: "Contributed to curriculum development, focusing on industry relevance and staying current with technical trends.",
     },
 ];
 
@@ -203,8 +203,8 @@ const dataportfolio = [
 ];
 
     const contactConfig = {
-        YOUR_EMAIL: "attiqrehman130@gmail.com",
-        YOUR_FONE: "+923207563669",
+        YOUR_EMAIL: "ahsanmehboobpers@gmail.com",
+        YOUR_FONE: "+923075424973",
         description: "Have a question or need assistance? Reach out to us via email, phone, or the contact form above. We're here to help and will respond promptly. Let's connect!",
         // creat an emailjs.com account 
         // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -214,10 +214,10 @@ const dataportfolio = [
     };
 
 const socialprofils = {
-    github: "https://github.com/attiqrehman-ar",
-    facebook: "https://www.facebook.com/share/p/19WjzrZeo2/",
-    linkedin: "https://www.linkedin.com/in/attiq-rehman-/",
-    twitter: "https://x.com/attiq_reh1",
+    github: "https://github.com/AhsanMehboob-AM",
+    facebook: "https://www.facebook.com/profile.php?id=100015425173392&mibextid=ZbWKwL",
+    linkedin: "https://www.linkedin.com/in/ahsan-mehboob",
+    twitter: "https://x.com/AHSANME28470182?s=09",
 };
 export {
     meta,
