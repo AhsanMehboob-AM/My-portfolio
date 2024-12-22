@@ -3,7 +3,7 @@
 A simple portfolio template for developer/designers built with React. 
 
 
-### [live preview](https://attiqportfolio.vercel.app/)
+### [live preview]([https://fastidious-taiyaki-adb4fd.netlify.app/portfolio])
 
 
 ### Features
@@ -18,7 +18,7 @@ A simple portfolio template for developer/designers built with React.
 
 Get the code
 
-<pre>https://github.com/attiqrehman-ar/react-portfolio.git</pre>
+<pre>https://github.com/AhsanMehboob-AM/My-portfolio.git</pre>
  
 Install required dependencies
 
