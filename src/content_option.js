@@ -154,11 +154,11 @@ const experience = [
 ];
 
 const dataportfolio = [
-    // {
-    //     img: "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/attachments/project_item/attachment/6083bf01d46c7174f2a5d72912356a05-1716314218597/screenshot-127.0.0.1_5500-2022.12.28-07_17_54.png",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
+    {
+        img: "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/attachments/project_item/attachment/6083bf01d46c7174f2a5d72912356a05-1716314218597/screenshot-127.0.0.1_5500-2022.12.28-07_17_54.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
     {
         img: "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/attachments/project_item/attachment/10decb99fd054c59aa3c9b3c9b2c18b3-1716314345409/screenshot-127.0.0.1_5501-2022.12.26-20_16_37.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
