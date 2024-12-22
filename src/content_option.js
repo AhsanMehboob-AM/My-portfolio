@@ -159,42 +159,42 @@ const dataportfolio = [
     //     description: "The wisdom of life consists in the elimination of non-essentials.",
     //     link: "#",
     // },
-    // {
-    //     img: "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/attachments/project_item/attachment/10decb99fd054c59aa3c9b3c9b2c18b3-1716314345409/screenshot-127.0.0.1_5501-2022.12.26-20_16_37.png",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/attachments/project_item/attachment/c4c2463ba462284662aa6a37a5a052f7-1716314426870/home.png",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://templatemo.com/screenshots-720/template-538-digital-trend.jpg",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://templatemo.com/screenshots-720/template-475-holiday.jpg",
+    {
+        img: "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/attachments/project_item/attachment/10decb99fd054c59aa3c9b3c9b2c18b3-1716314345409/screenshot-127.0.0.1_5501-2022.12.26-20_16_37.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/attachments/project_item/attachment/c4c2463ba462284662aa6a37a5a052f7-1716314426870/home.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://templatemo.com/screenshots-720/template-538-digital-trend.jpg",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://templatemo.com/screenshots-720/template-475-holiday.jpg",
 
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
 
-    // {
-    //     img: "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/attachments/project_item/attachment/ac8d5d69dd7012924140ea37de1b028d-1716315191711/Ice%20cream.png",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://templatemo.com/screenshots-720/template-588-ebook-landing.jpg",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/attachments/project_item/attachment/ee74f44e0e689269de3006f0f1816395-1716314272349/screenshot-127.0.0.1_5501-2022.12.28-07_16_38.png",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
+    {
+        img: "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/attachments/project_item/attachment/ac8d5d69dd7012924140ea37de1b028d-1716315191711/Ice%20cream.png",
+        link: "#",
+    },
+    {
+        img: "https://templatemo.com/screenshots-720/template-588-ebook-landing.jpg",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/attachments/project_item/attachment/ee74f44e0e689269de3006f0f1816395-1716314272349/screenshot-127.0.0.1_5501-2022.12.28-07_16_38.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
     {
         img: "",
         description: "Will Upload the projeccts Soon.",
